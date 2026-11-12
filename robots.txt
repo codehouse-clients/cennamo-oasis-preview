@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oasis.cennamo.gr/sitemap.xml
